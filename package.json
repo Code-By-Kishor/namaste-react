@@ -1,0 +1,28 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Code-By-Kishor/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/Code-By-Kishor/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code-By-Kishor/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  }
+}
